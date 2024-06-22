@@ -11,7 +11,7 @@
  
 </p> 
 
-- 🏢 I'm a computer science student and Flutter Devleoper
+- 🏢 I'm a computer science student.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 
 ### Connect with Me :
